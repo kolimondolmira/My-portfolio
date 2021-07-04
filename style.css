@@ -68,7 +68,7 @@ h1{
 }
 #baby-develop{
     border-left: 7px solid;
-    border-image: linear-gradient(blue,cyan);
+    background-image: linear-gradient(blue,cyan);
     border-image-slice: 1;
 }
 
