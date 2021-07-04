@@ -23,6 +23,7 @@ h1{
 .content1{
     margin: 50px;
     width: 50%;
+    padding-right: 80px;
 }
 .content2 img{
     width:65%;
@@ -79,6 +80,7 @@ footer{
     background-repeat: no-repeat;
     background-image: url(exp-bg.png);
     background-position:left;
+    background-size: 70px;
     
 }
 
